@@ -45,7 +45,7 @@ A **Software Engineering Student** 🚀 from Bandung, Indonesian.
 - 🤔 My interests are web, video processing and development of some useful and cool stuff
 - 💼 I'm pursuing a Bachelor's degree in Computer Engineering.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [aqilrahman23@gmail.com](mailto:aqilrahman23@gmail.com).
+- 📫 Email me at [aqilrahman@kojolah.com](mailto:aqilrahman@kojolah.com).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1oBhTfqVHEXVLDloUz-a_EH3mW4UNe00z/view?usp=sharing) to get more info.
 
 
@@ -54,6 +54,10 @@ A **Software Engineering Student** 🚀 from Bandung, Indonesian.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
