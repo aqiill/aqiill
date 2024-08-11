@@ -46,7 +46,7 @@ A **Software Engineering Student** 🚀 from Bandung, Indonesian.
 - 💼 I'm pursuing a Bachelor's degree in Computer Engineering.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [aqilrahman@kojolah.com](mailto:aqilrahman@kojolah.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1oBhTfqVHEXVLDloUz-a_EH3mW4UNe00z/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://www.canva.com/design/DAGNl_yukfA/4jevNk3p3sSzgI-aSESEZQ/edit?utm_content=DAGNl_yukfA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to get more info.
 
 
 **Languages and Tools:**  
